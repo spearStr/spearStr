@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2db400&height=300&section=header&text=spearStr&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2db400&height=250&section=header&text=spearStr&fontSize=90)
 
 ## 👨 Profile
 Hi there. Let me introduce myself. My name is Changhun Hong.  
