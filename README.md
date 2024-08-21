@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2db400&height=250&section=header&text=spearStr&fontSize=90)
 
 ## 👨 Profile
-Hi there. Let me introduce myself. My name is Changhun Hong.  
+Hi there. Let me introduce myself. My name is Changhyun Hong.  
 
 I was born on December 13, 1998. Currently, I am in my final year (4th year, 2nd semester) studying in the Department of Software at Chung-Ang University. My passion lies in front-end development, and I am eager to continue honing my skills in this area. I have a deep interest in creating user-friendly, visually appealing web applications and I am constantly learning new technologies to improve my craft.  
 
