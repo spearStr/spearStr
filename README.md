@@ -14,10 +14,10 @@ Thank you for visiting my GitHub profile!
 | 2019.03                   | 🎓 Entered Chung-Ang University Software Department     |
 | 2020.01 ~ 2021.07         | 🪖 Served in Military                                   |
 | 2022.01 ~ 2022.09         | 🚀 Entrepreneurship Club named TTedori                  |
-| 2023.08 ~ 2023.11         | 💻 42Seoul 8th                                          |
-| 2024.02                   | 🏅 9roomthon in JEJU 9th (3rd place)                    |
+| 2023.08 ~ 2023.11         | 💻 42Seoul 8th main course                                         |
+| 2024.02                   | 🏅 [9roomthon in JEJU 9th (3rd place)](https://github.com/9oormthon9th/FE)                    |
 | 2024.03 ~ 2024.06         | 🛠️ Startup web front-end developer internship           |
-| 2024.04 ~                 | 📚 2024 Hanium ICT mentoring project & contest          |
+| 2024.04 ~                 | 📚 [2024 Hanium ICT mentoring project & contest](https://github.com/hanium2024/FE)          |
 | 2024.07 ~                 | 💻 Naver Boostcamp 9th membership                       |    
 
 ### 🛠️ Stacks
