@@ -18,7 +18,7 @@ Thank you for visiting my GitHub profile!
 | 2024.02                   | 🏅 [9roomthon in JEJU 9th (3rd place)](https://github.com/9oormthon9th/FE)                    |
 | 2024.03 ~ 2024.06         | 🛠️ Internship as a frontend developer at a startup      |
 | 2024.04 ~ 2024.08         | 📚 [2024 Hanium ICT mentoring project & contest](https://github.com/hanium2024/FE)          |
-| 2024.07 ~                 | 💻 Naver Boostcamp 9th membership                       |    
+| 2024.07 ~ 2024.12         | 💻 Naver Boostcamp 9th membership                       |    
 
 ### 🛠️ Stacks
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
