@@ -11,7 +11,7 @@ Thank you for visiting my GitHub profile!
 
 | Period                    | Description                                             |
 |---------------------------|---------------------------------------------------------|
-| 2019.03 ~                 | 🎓 Entered Chung-Ang University Software Department     |
+| 2019.03 ~ 2025.02         | 🎓 Entered Chung-Ang University Software Department     |
 | 2020.01 ~ 2021.07         | 🪖 Served in Military                                   |
 | 2022.01 ~ 2022.09         | 🚀 Entrepreneurship Club named TTedori                  |
 | 2023.08 ~ 2023.11         | 💻 42Seoul 10th main course                                         |
