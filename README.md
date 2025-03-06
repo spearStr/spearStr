@@ -47,7 +47,8 @@ Thank you for visiting my GitHub profile!
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alex963)](https://solved.ac/alex963)
 
 ### 📝 Blog
-<a href="https://alex963.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>  
+<a href="https://alex963.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://velog.io/@changbob"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
 
 ### 📭 Contact
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:alex963@naver.com)](mailto:alex963@naver.com)  
