@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2db400&height=250&section=header&text=spearStr&fontSize=90)
 
 ## 👨 Profile
-Hi there. Let me introduce myself. My name is Changhyun Hong.  
+👋 Hi there! I'm Changhyun Hong.
+I'm a self-driven front-end developer passionate about solving problems and enhancing user experiences.
 
-I was born on December 13, 1998. Currently, I am in my final year (4th year, 2nd semester) studying in the Department of Software at Chung-Ang University. My passion lies in front-end development, and I am eager to continue honing my skills in this area. I have a deep interest in creating user-friendly, visually appealing web applications and I am constantly learning new technologies to improve my craft.  
+I love building intuitive, visually appealing web applications and continuously explore new technologies to improve my craft. My goal is to create seamless, user-centric experiences that make a real impact.
 
-Thank you for visiting my GitHub profile!  
+Thanks for visiting my GitHub profile!
 
 ### 🗂️ History
 
