@@ -14,7 +14,7 @@ Thanks for visiting my GitHub profile!
 |---------------------------|---------------------------------------------------------|
 | 2019.03 ~ 2025.02         | 🎓 graduated Chung-Ang University Software Department   |
 | 2020.01 ~ 2021.07         | 🪖 Served in Military                                   |
-| 2022.01 ~ 2022.09         | 🚀 Entrepreneurship Club named TTedori                  |
+| 2022.06 ~ 2022.11         | 🚀 Entrepreneurship Club named TTedori                  |
 | 2023.08 ~ 2023.11         | 💻 42Seoul 10th main course                                         |
 | 2024.02                   | 🏅 [9roomthon in JEJU 9th (3rd place)](https://github.com/9oormthon9th/FE)                    |
 | 2024.03 ~ 2024.06         | 🛠️ Internship as a frontend developer at a startup      |
